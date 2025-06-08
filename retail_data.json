@@ -1,0 +1,112 @@
+[
+  {
+    "CustomerID": 1001,
+    "Gender": "Male",
+    "Age": 28,
+    "Product": "T-Shirt",
+    "Category": "Clothing",
+    "Quantity": 2,
+    "UnitPrice": 15.99,
+    "PurchaseDate": "2023-09-15",
+    "PaymentMethod": "Credit Card"
+  },
+  {
+    "CustomerID": 1002,
+    "Gender": "Female",
+    "Age": 34,
+    "Product": "Headphones",
+    "Category": "Electronics",
+    "Quantity": 1,
+    "UnitPrice": 59.99,
+    "PurchaseDate": "2023-09-17",
+    "PaymentMethod": "PayPal"
+  },
+  {
+    "CustomerID": 1003,
+    "Gender": "Male",
+    "Age": 22,
+    "Product": "Coffee Mug",
+    "Category": "Kitchen",
+    "Quantity": 4,
+    "UnitPrice": 5.49,
+    "PurchaseDate": "2023-09-18",
+    "PaymentMethod": "Cash"
+  },
+  {
+    "CustomerID": 1004,
+    "Gender": "Female",
+    "Age": 45,
+    "Product": "Blender",
+    "Category": "Electronics",
+    "Quantity": 1,
+    "UnitPrice": 34.99,
+    "PurchaseDate": "2023-09-20",
+    "PaymentMethod": "Credit Card"
+  },
+  {
+    "CustomerID": 1005,
+    "Gender": "Male",
+    "Age": 31,
+    "Product": "Notebook",
+    "Category": "Stationery",
+    "Quantity": 3,
+    "UnitPrice": 2.99,
+    "PurchaseDate": "2023-09-21",
+    "PaymentMethod": "UPI"
+  },
+  {
+    "CustomerID": 1006,
+    "Gender": "Female",
+    "Age": 29,
+    "Product": "Dress",
+    "Category": "Clothing",
+    "Quantity": 1,
+    "UnitPrice": 49.99,
+    "PurchaseDate": "2023-09-23",
+    "PaymentMethod": "Debit Card"
+  },
+  {
+    "CustomerID": 1007,
+    "Gender": "Male",
+    "Age": 37,
+    "Product": "Water Bottle",
+    "Category": "Kitchen",
+    "Quantity": 2,
+    "UnitPrice": 12.5,
+    "PurchaseDate": "2023-09-25",
+    "PaymentMethod": "UPI"
+  },
+  {
+    "CustomerID": 1008,
+    "Gender": "Female",
+    "Age": 26,
+    "Product": "Pens",
+    "Category": "Stationery",
+    "Quantity": 5,
+    "UnitPrice": 1.49,
+    "PurchaseDate": "2023-09-27",
+    "PaymentMethod": "Credit Card"
+  },
+  {
+    "CustomerID": 1009,
+    "Gender": "Male",
+    "Age": 40,
+    "Product": "Power Bank",
+    "Category": "Electronics",
+    "Quantity": 1,
+    "UnitPrice": 25.0,
+    "PurchaseDate": "2023-09-28",
+    "PaymentMethod": "Cash"
+  },
+  {
+    "CustomerID": 1010,
+    "Gender": "Female",
+    "Age": 33,
+    "Product": "Jeans",
+    "Category": "Clothing",
+    "Quantity": 2,
+    "UnitPrice": 35.0,
+    "PurchaseDate": "2023-09-29",
+    "PaymentMethod": "PayPal"
+  }
+]

@@ -1,1 +1,2 @@
-# Github_practice
+
+This is a basic project
